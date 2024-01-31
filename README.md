@@ -24,7 +24,7 @@ playwright install
 - In my benchmarks , scraper is able to scrape upto 10,000 records (individual searches) in less than 9 hrs.
 
 ## Notes
-- `time.sleep` is used to slow down the scraper so that google doesnt detect unusual traffic and block our ip for sometime.
+- `time.sleep` is used to slow down the scraper in certain steps so that google doesnt detect unusual traffic and block our ip for sometime.
 
 ## How to contributions
 - Anybody who can abtract the app into some template structure for web scraping google is always welcomed.
