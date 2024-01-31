@@ -1,15 +1,17 @@
 # Google WebScraper ( Scrap companies data using existing minimal data )
 
 ## Introduction
-- This Appplication is initial by me to scrape `google search` in efficient manner without using `proxies` , `costly external softwares` and many more.
-- 
+- This Appplication is initiative by me to scrape `google search` in efficient manner without using `proxies` , `costly external softwares` and many more.
+
+- Here iam using some `companies random data` to scrap more data about these companies from google search.
+
 - This main purpose of this app is to explain steps in scraping `google search` , you can always change below file content to fit your scraping requirements
   -   scraper.py
   -   data_cleaning (if scraped data is dirty)
   -   app.py ( little changes)
 
 ## How to run
-- install required dependencies using below command 
+- Install required dependencies using below command 
 ```
 pip install -r requirements.txt
 
@@ -24,5 +26,5 @@ playwright install
 ## Notes
 - `time.sleep` is used to slow down the scraper so that google doesnt detect unusual traffic and block our ip for sometime.
 
-## Contributions
+## How to contributions
 - Anybody who can abtract the app into some template structure for web scraping google is always welcomed.
