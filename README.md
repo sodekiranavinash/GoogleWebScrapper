@@ -1,4 +1,4 @@
-# Google WebScraper ( Scrap companies data using existing minimal data )
+# Google WebScraper ( Scrap data from google search using existing minimal data )
 
 ## Introduction
 - This Appplication is initiative by me to scrape `google search` in efficient manner without using `proxies` , `costly external softwares` and many more.
